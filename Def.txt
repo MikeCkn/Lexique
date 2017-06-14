@@ -22,16 +22,17 @@ Chaï : Chaï est une librairie d'assertion pour les BDD/TDD sur node.js.
 Cloud : Le cloud computing, ou l'informatique en nuage ou nuagique ou encore l'infonuagique (au Québec), est l'exploitation de la puissance de calcul ou de stockage de serveurs informatiques distants par l'intermédiaire d'un réseau, généralement internet.
 
 
-Coffescript : 
+Coffescript : Langage de programmation, qui se compile en JavaScript. Le langage ajoute du sucre syntaxique afin d'améliorer la brièveté et la lisibilité du JavaScript.
 
 
 Compiler vs Interpreter : Un compiler traduit tout le code en binaire avant de l'éxecuter là où un interpreter va traduire le code au fur et à mesure de son éxecution.
 
 
-Compass : 
+Compass : C'est un framework CSS3. C’est une application écrite en Ruby qui s’installe facilement sur votre ordinateur et qui va jouer le rôle d’un préprocesseur.
 
 
-Components :
+Components : Un web component, c’est la fusion de 3 grands principes / composants du HTML 5 : les imports, les custom elements mais aussi ce que l’on appelle le shadow DOM, quelque chose qui permet de customiser un élément en isolant son contenu sans toucher au DOM de la page.
+En fusionnant les 3, on obtient donc un web component. Pour ceux qui ne l’ont pas encore deviné, c’est un custom element, dont on importe le contenu HTML grâce aux imports. Son contenu n’est pas inclu dans le DOM mais dans le shadow DOM de cet élément.
 
 
 CSS3 : Les feuilles de style en cascade1, généralement appelées CSS de l'anglais Cascading Style Sheets, forment un langage informatique qui décrit la présentation des documents HTML et XML. Les standards définissant CSS sont publiés par le World Wide Web Consortium (W3C). Introduit au milieu des années 1990, CSS devient couramment utilisé dans la conception de sites web et bien pris en charge par les navigateurs web dans les années 2000.
@@ -43,10 +44,10 @@ DAY:
 DOM : Le Modèle Objet de Document (DOM) est une interface de programmation d'application (API) pour des documents HTML valides et XML bien-formés. Il définit la structure logique d'un document (au sens large tu terme!) et la manière d'y accéder et de le manipuler.
 
 
-Emmet : 
+Emmet : Emmet est un ensemble d'abréviations qui s'étendent en html/xml/css, comme des snippets de textes. Une fois Emmet installé, tapez une abréviation puis la touche qui déclenchera l'action.
 
 
-Foundation : 
+Foundation : Foundation est un framework CSS / JS complet permettant de créer rapidement des webdesigns fluides, compatibles navigateurs et réactifs.
 
 
 Grunt : Grunt est un "TaskRunner". Il permet d'automatiser des tâches avec le langage JS tel que la minification (réduire la taille du code), l'unit testing le "linting" ou encore la compilation.
@@ -55,7 +56,7 @@ Grunt : Grunt est un "TaskRunner". Il permet d'automatiser des tâches avec le l
 Gulp Like : Logiciels comme Gulp, des taskrunners (Grunt par exemple)
 
 
-Handlebars : 
+Handlebars : Basé sur le modele de Mustache, mais l'améliore de plusieurs façons, il est possible de séparer la génération du HTML du reste du JavaScript et d'écrire un code plus propre.
 
 
 Haml : 
@@ -98,7 +99,7 @@ Moca :
 MUC :
 
 
-Mustache : 
+Mustache : C'est un système de micro templating, qui va permettre d'injecter des variables directement dans une chaîne de caractères.
 
 
 NPM : Il est installé par défaut avec Node.JS, faisant partie de son environnement. Il est le gestionnaire de paquets officiel de Node.JS et s’utilise en ligne de commande.
@@ -117,7 +118,7 @@ Redux : Redux est une implémentation dérivée de Flux. Ça permet de créer un
 Du coup, on va écrire une implémentation de Redux pour mieux décomposer son fonctionnement.
 
 
-SASS : Sass est l’acronyme “Syntactically Awesome Stylesheets”.  C’est une extension CSS qui ajoute de nouvelles règles comme les variables, les mixins, l’héritage et plus encore, simplifiant ainsi la vie des intégrateurs web.
+SASS : Sass est l’acronyme “Syntactically Awesome Stylesheets”. C'est un langage de template, il nous permet d’utiliser une syntaxe différente, des fonctions, des variables.. le tout compilé en un fichier CSS propre et lisible.
 
 
 SEO : L'optimisation pour les moteurs de recherche, couramment appelée SEO (acronyme de Search Engine Optimization), est un ensemble de techniques visant à optimiser la visibilité d'un page web dans les pages de résultats de recherche (les SERP, pour Search Engine Result Pages).
