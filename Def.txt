@@ -81,10 +81,10 @@ jQuery : jQuery est une bibliothèque JavaScript libre et multi-plateforme cré�
 Kiss : « Keep it simple, stupid », ou principe KISS, est une ligne directrice de conception qui préconise la simplicité dans la conception et que toute complexité non indispensable devrait être évitée dans toute la mesure du possible.
 
 
-Less : 
+Less : C'est un framework CSS. Ils permettent d'améliorer l'écriture du CSS en y ajoutant des fonctionnalités comme des variables ou des fonctions.
 
 
-Local Web Servers : 
+Local Web Servers : Un serverur web local, est un serveur accessible uniquement via le réseau sur lequel il est hebergé. Idéal pour tester son site, application, etc.. avant de mettre en ligne.
 
 
 MarkDown : Language de balisage qui permet d'écrire du HTML de façon raccourcie. Markdown est un système d’édition et de formatage de texte ; c’est à la fois une syntaxe, un script de conversion texte → HTML et un format de fichier. Il est couramment utilisé pour les fichiers de documentation d'un projet ou d’un jeu de données -souvent nommé readme.md.
@@ -151,4 +151,4 @@ Workflow : Environnement de travail.
 Yajni:
 
 
-Yeoman : 
+Yeoman : Yeoman est un outil qui va permettre de démarrer un projet web rapidement en utilisant la pluspart des outils front-end disponibles aujourd'hui, via des générateurs.
