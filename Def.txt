@@ -130,7 +130,7 @@ SGBD : En informatique, un système de gestion de base de données (abr. SGBD) e
 Snake_case : Par opposition à CamelCase, faire du snake_case consiste à mettre un underscore "_" entre chaque mot d'une suite de mots quand on nomme quelque chose(Pour mimiquer un espace).
 
 
-Stylus : 
+Stylus : C'est un nouveau langage révolutionnaire, fournissant un moyen efficace, dynamique et expressif de générer du CSS. Prise en charge à la fois d'une syntaxe indentée et d'un style CSS régulier.
 
 
 TDC : 
