@@ -59,14 +59,14 @@ Gulp Like : Logiciels comme Gulp, des taskrunners (Grunt par exemple)
 Handlebars : Basé sur le modele de Mustache, mais l'améliore de plusieurs façons, il est possible de séparer la génération du HTML du reste du JavaScript et d'écrire un code plus propre.
 
 
-Haml : 
+Haml : Le Haml est un langage de balisage léger pour templates. Il est utilisé pour générer des documents XHTML sans utiliser la syntaxe HTML. Il se veut élégant et minimaliste.
 
 
 IDE : Un environnement de développement est un ensemble d'outils. Il comporte un éditeur de texte, un compilateur et un débogueur en ligne, qui permet d'exécuter ligne par ligne le programme en cours de construction.
 Dans un environnement de développement « intégré », les outils sont prévus pour être utilisés ensemble.
 
 
-Jade : 
+Jade : Jade est un moteur de template inspiré par le HAML et implémenté en Javascript. Il propose une approche différente de ce que l'on peut avoir l'habitude de voir en se basant sur un code tabulé et sans "balises"
 
 
 Jasmine : Jasmine est un cadre de développement axé sur comportement pour tester le code de Javascript. Il ne dépend pas d'autres cadres de Javascript.
